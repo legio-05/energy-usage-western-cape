@@ -72,3 +72,4 @@ PGR108 Big Data project group:
 
 - [Hlib Grygoriev](https://github.com/legio-05)
 - [Emma Daae](https://github.com/emmadaae)
+- [Marvin Lambertus](https://github.com/grunundweiss)
