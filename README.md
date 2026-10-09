@@ -70,5 +70,5 @@ docs/      project report (PDF) and presentation (PPTX)
 
 PGR108 Big Data project group:
 
-- [@legio-05](https://github.com/legio-05)
+- [Hlib Grygoriev](https://github.com/legio-05)
 - [Emma Daae](https://github.com/emmadaae)
