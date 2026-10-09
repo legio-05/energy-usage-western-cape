@@ -1,0 +1,15 @@
+# Dataset (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# Local settings and caches
+code/local_settings.json
+__pycache__/
+*.pyc
+.venv/
+
+# Spark / OS junk
+*.crc
+_SUCCESS
+desktop.ini
+.DS_Store

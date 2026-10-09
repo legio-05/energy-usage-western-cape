@@ -1,0 +1,5 @@
+quintile,n_schools,avg_weekday_kwh,avg_weekend_kwh,avg_weekend_ratio
+1,18,3.417,2.205,0.647
+2,15,3.345,2.011,0.604
+3,17,3.409,2.162,0.585
+4,3,3.097,1.817,0.614

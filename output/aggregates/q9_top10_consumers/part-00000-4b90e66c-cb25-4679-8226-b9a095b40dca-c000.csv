@@ -1,0 +1,11 @@
+school_id,school_type,quintile,learners,annual_kwh,kwh_per_learner
+S24,secondary,3,1758,178043.28,101.28
+S49,primary,3,1728,86492.76,50.05
+S43,secondary,1,1861,84844.99,45.59
+S48,secondary,2,1334,82253.8,61.66
+S3,primary,1,1405,78651.81,55.98
+S47,secondary,1,1276,75844.86,59.44
+S41,primary,1,778,74094.26,95.24
+S25,primary,2,1894,68502.18,36.17
+S17,secondary,2,1730,68042.57,39.33
+S14,secondary,4,1619,64938.76,40.11

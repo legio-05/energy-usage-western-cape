@@ -1,0 +1,9 @@
+quintile,intervention,n_schools,mean_annual_kwh
+1,no,4,56673.0
+1,yes,14,46243.0
+2,no,3,57706.0
+2,yes,12,42930.0
+3,no,2,34939.0
+3,yes,15,49681.0
+4,no,1,39374.0
+4,yes,2,44228.0

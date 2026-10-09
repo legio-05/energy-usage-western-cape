@@ -1,0 +1,17 @@
+quintile,season,total_mwh,avg_kwh
+1,Autumn,227.4,2.871
+1,Spring,230.3,3.041
+1,Summer,115.5,2.263
+1,Winter,300.9,3.813
+2,Autumn,185.2,2.804
+2,Spring,167.2,2.894
+2,Summer,100.1,2.355
+2,Winter,235.8,3.579
+3,Autumn,218.1,2.917
+3,Spring,210.7,3.022
+3,Summer,109.4,2.271
+3,Winter,276.9,3.773
+4,Autumn,37.3,2.857
+4,Spring,31.0,2.498
+4,Summer,19.1,2.241
+4,Winter,40.5,3.103
